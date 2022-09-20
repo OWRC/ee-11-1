@@ -50,3 +50,6 @@ The amplitude of annual groundwater level variation within the Thorncliffe aquif
 
 ![*Figure 4: Watershed Cross section*](Images/ee%20fig%202.png)
 _Figure 4:Duffins Creek watershed groundwater monitoring locations. North-south cross section (Figure 5) location shown in magenta._
+
+![*Figure 5:Cross section*](Images/ee%20fig%203.png)
+_Figure 5:North-south cross section through the Duffins Creek watershed showing location of IWA EE11-1 groundwater monitors._
