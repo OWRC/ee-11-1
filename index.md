@@ -59,4 +59,3 @@ _Figure 5:North-south cross section through the Duffins Creek watershed showing 
 
 ![*Figure 6:Monitoring*](Images/ee%20fig%204.png)
 _Figure 6:Site IWA EE11-1 groundwater monitor details (Figure modified from Gerber et al., 2991).  Piezometers A-F are 2” diameter PVC while W is 6” diameter steel.  HT-Halton Till, Nt-Lower Newmarket till, TF-Thorncliffe Fm, Su-Sunnybrook Drift.  Vibrating wire piezometers a-f no longer function._
-
