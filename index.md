@@ -25,7 +25,7 @@ The Duffins Creek watershed area has historically been part of many regional geo
 Groundwater measurements at the site were collected initially by M.M. Dillon Limited during 1993 and 1994 for IWA landfill siting investigations.  Observations were continued by University of Toronto students and staff from 1996 to 2002.  Toronto and Region Conservation Authority (two PGMN piezometers) and ORMGP staff have been collecting measurements from this site since 2009.  Details regarding the seven monitoring wells installed on site are shown on Figure 4.  Manual water level measurements are plotted since 1993 on a hydrograph that can be accessed below (see Documents).
 
 ![*Figure 3: Watershed*](Images/ee%2011%20fig%201.png)
-_Figure 1: Duffins Creek and Petticoat Creek watersheds showing locations of closed and some historical proposed municipal waste landfills. Site EE11 was a proposed landfill location during the IWA site search process during the early 1990s._
+_Figure 3: Duffins Creek and Petticoat Creek watersheds showing locations of closed and some historical proposed municipal waste landfills. Site EE11 was a proposed landfill location during the IWA site search process during the early 1990s._
 
 # Hydrogeologic Observations
 Interesting items of note from the observed groundwater levels include:
@@ -49,4 +49,4 @@ The amplitude of the annual water table fluctuation within the Halton Till at th
 The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex is approximately 1m, which is perhaps moderated because of this site’s proximity to a regional discharge area for the deep aquifer system along the Lake Iroquois shoreline and deep river valleys along the north shore of Lake Ontario.  The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex at site UofT Claremont further to the north away from the regional discharge area is a little over 2m; however, this amplitude may be partly affected by local groundwater pumping.
 
 ![*Figure 4: Watershed Cross section*](Images/ee%20fig%202.png)
-_Figure 2:Duffins Creek watershed groundwater monitoring locations. North-south cross section (Figure 3) location shown in magenta. _
+_Figure 4:Duffins Creek watershed groundwater monitoring locations. North-south cross section (Figure 5) location shown in magenta._
