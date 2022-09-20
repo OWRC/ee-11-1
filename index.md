@@ -8,7 +8,7 @@ output: html_document
 ![*Figure 1: Location of EE-11-1*](Images/ee%2011%20cover.png)
 _Figure 1: Location of EE-11-1_
 
-![*Figure 2: Aerial photo of EE-11-1*](Images/ee%2011%20cover.png)
+![*Figure 2: Aerial photo of EE-11-1*](Images/ee%2011%20aerial.jpg)
 _Figure 2: Aerial photo of EE-11-1_
 
 # Background
