@@ -48,6 +48,7 @@ The amplitude of the annual water table fluctuation within the Halton Till at th
 
 The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex is approximately 1m, which is perhaps moderated because of this site’s proximity to a regional discharge area for the deep aquifer system along the Lake Iroquois shoreline and deep river valleys along the north shore of Lake Ontario.  The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex at site UofT Claremont further to the north away from the regional discharge area is a little over 2m; however, this amplitude may be partly affected by local groundwater pumping.
 
+
 ![*Figure 4: Watershed Cross section*](Images/ee%20fig%202.png)
 _Figure 4:Duffins Creek watershed groundwater monitoring locations. North-south cross section (Figure 5) location shown in magenta._
 
