@@ -1,12 +1,12 @@
 ---
-title: Boston-Mills Fact Sheet
-description: Description of the bedrock hydrogeologic setting in the Boston-Mills Area (Caledon East bedrock valley)
+title: IWA EE-11-1 Fact Sheet
+description: Description of the bedrock hydrogeologic setting in the area of IWA EE-11-1
 author: Oak Ridges Moraine Groundwater Program
-date: 2022-07-07
+date: 2022-09-20
 output: html_document
 ---
-![*Figure 1: Location of Boston-Mills*](Images/boston_mill_cover.png)
-_Figure 1: Location of Boston-Mills_
+![*Figure 1: Location of EE-11-1*](Images/ee%2011%20cover.png)
+_Figure 1: Location of EE-11-1_
 
 ![*Figure 2: Aerial photo of Boston-Mills*](Images/boston_aerial.jpg)
 _Figure 2: Aerial photo of Boston-Mills_
