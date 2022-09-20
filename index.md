@@ -16,8 +16,7 @@ _Figure 2: Aerial photo of EE-11-1_
 The monitoring wells at this site were installed in 1993 and provide access for long-term measurements of groundwater level fluctuations and chemistry for the shallow system (water table within Halton Till) and the deep groundwater flow system (Thorncliffe aquifer complex) near regional groundwater discharge zones;
 
 This site also provides monitoring information for the Lower Newmarket till which controls flow between the shallow and deep parts of the groundwater flow system; and
-
-Observations made at this location continue to provide vital data that has led to an understanding of how groundwater flows in this area, an area characterized by a thick lower permeability glacial till unit in the subsurface. 
+observations made at this location continue to provide vital data that has led to an understanding of how groundwater flows in this area, an area characterized by a thick lower permeability glacial till unit in the subsurface. 
 
 # Background
 
@@ -27,3 +26,27 @@ Groundwater measurements at the site were collected initially by M.M. Dillon Lim
 
 ![*Figure 3: Watershed*](Images/ee%2011%20fig%201.png)
 _Figure 1: Duffins Creek and Petticoat Creek watersheds showing locations of closed and some historical proposed municipal waste landfills. Site EE11 was a proposed landfill location during the IWA site search process during the early 1990s._
+
+# Hydrogeologic Observations
+Interesting items of note from the observed groundwater levels include:
+
+Low Permeability
+
+The long time period necessary for recovery to static water level for wells screened within the Lower Newmarket till.  Piezometer EE11-1B is a 2″ diameter PVC piezometer installed within the Lower Newmarket till.  Maintenance activities (pumping) lowered the water level in this piezometer in August 2012.  Owing to the very low hydraulic conductivity/permeability of the Newmarket Till in this area, water can only move very slowly into the well and as a result, the groundwater level is still recovering to static two years later;
+
+Variability in Newmarket Till
+
+The entire thickness of the Lower Newmarket till does not function as a uniform aquitard.  Previous studies have referred to this as an “aquitard thinning concept” where the greatest hydraulic head difference (as measured in wells screened above and below the till) occurs over the lowest hydraulic conductivity part of the till unit (DE5 and DE4 in the central part of the till unit; Figure 4).  Structures such as sand seams and fractures in the top and bottom parts of the Newmarket till have been found to provide hydraulic connection to adjacent overlying and underlying aquifer units.  Further discussion can be found in Gerber et al. (2001);
+
+Underdraining to Duffins Creek
+
+The vertical hydraulic gradient is a controlling factor in the direction and magnitude of groundwater flow between adjacent hydrostratigraphic units. The Lower Newmarket till, owing to its thickness and low hydraulic conductivity, separates the shallow part of the groundwater flow system from the deeper part and therefore largely controls the amount of groundwater flow that moves vertically downward to deeper aquifers in the Thorncliffe and Scarborough Formations.  The vertical hydraulic gradient (groundwater flow driving force) through the Lower Newmarket till (thickness = 33.3m) at this site ranges between 0.75 and 0.80 downwards.  This large vertical hydraulic gradient is interpreted to be caused by lateral drainage (discharge) from the Thorncliffe aquifer complex to the Duffins Creek valley situated to the west;
+
+Seasonal Groundwater Fluctuations
+
+The amplitude of the annual water table fluctuation within the Halton Till at this site is generally less than 2m.  This amplitude of fluctuation is moderated by the location of this site near a local discharge area along the Lake Iroquois shoreline to the immediate south; and
+
+The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex is approximately 1m, which is perhaps moderated because of this site’s proximity to a regional discharge area for the deep aquifer system along the Lake Iroquois shoreline and deep river valleys along the north shore of Lake Ontario.  The amplitude of annual groundwater level variation within the Thorncliffe aquifer complex at site UofT Claremont further to the north away from the regional discharge area is a little over 2m; however, this amplitude may be partly affected by local groundwater pumping.
+
+![*Figure 4: Watershed Cross section*](Images/ee%20fig%202.png)
+_Figure 2:Duffins Creek watershed groundwater monitoring locations. North-south cross section (Figure 3) location shown in magenta. _
