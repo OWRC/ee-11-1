@@ -1,5 +1,5 @@
 # E-11 (GitHub page)
-ORMGP fact sheet of Bedrock at Boston-Mills
+ORMGP fact sheet of Bedrock at EE-11-1
 
 site is published at https://owrc.github.io/ee-11-1/
 
