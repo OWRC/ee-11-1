@@ -1,4 +1,4 @@
-# E-11 (GitHub page)
+# EE-11 (GitHub page)
 ORMGP fact sheet of Bedrock at EE-11-1
 
 site is published at https://owrc.github.io/ee-11-1/
